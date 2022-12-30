@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.intro {
+    font-size: 22px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
